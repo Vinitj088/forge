@@ -2,7 +2,7 @@
 
 **Production-grade Turborepo template for Next.js apps.**
 
-# Noob-Friendly Guide to Clone and Run the Web App
+# Run the Web App
 
 Here's a step-by-step guide to get your web app running, focusing only on the web development part:
 

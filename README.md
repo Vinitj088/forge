@@ -26,8 +26,7 @@ After installation, restart your terminal or command prompt.
 ## Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git c:\Users\vinit\OneDrive\Documents\forge
-cd c:\Users\vinit\OneDrive\Documents\forge\forge
+git clone https://github.com/Vinitj088/forge
 ```
 
 Replace `your-username/your-repo-name` with your actual GitHub repository URL.
